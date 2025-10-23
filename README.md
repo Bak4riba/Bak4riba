@@ -1,7 +1,8 @@
 # Seja Bem vindo!
 
-Sou o Matheus, sou Educador e Desenvolvedor, no momento estou estudando Java e NextJs.
+Sou o Matheus, sou Físico e Desenvolvedor, no momento estou estudando Java e NextJs. Mas possuo experiência com Python, PHP e Nextjs.
 Combino minha formação técnica em Informática com as habilidades de didática e resolução de problemas adquiridas na licenciatura para criar soluções eficientes e bem estruturadas.
+
 ---
 
 **Formação:**
@@ -9,18 +10,19 @@ Combino minha formação técnica em Informática com as habilidades de didátic
 - Licenciatura em Física - IFPR  
 - Especialização em Ciência e Tecnologia - IFPR
 
-
-**Objetivo:** Primeira vaga como Desenvolvedor Júnior (Back-end/Front-end/Full-stack)
+<div align="center">
+  
+![bak4riba's Stats](https://github-readme-stats.vercel.app/api?username=bak4riba&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 ![bak4riba's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bak4riba&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+</div>
 
 ---
 
 ## 📫 Contato
 
-**LinkedIn:** [linkedin.com/in/matheusbakaus](https://linkedin.com/in/matheusbakaus)  
-**Email:** matheus@bakaus.dev  
-**Localização:** Telêmaco Borba/PR
+**LinkedIn:** [linkedin.com/in/matheusbakaus](https://linkedin.com/in/bakaus)  
+**Email:** matheus.bakaus.bruno@gmail.com  
 
 ---
 
