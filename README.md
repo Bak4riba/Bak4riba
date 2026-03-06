@@ -1,49 +1,58 @@
-# Seja Bem vindo!
+# Matheus Bakaus Bruno
 
-Sou o Matheus, sou Físico e Desenvolvedor, no momento estou estudando Java e NextJs. Mas possuo experiência com Python, PHP e Nextjs.
-Combino minha formação técnica em Informática com as habilidades de didática e resolução de problemas adquiridas na licenciatura para criar soluções eficientes e bem estruturadas.
+Desenvolvedor com foco em Backend, Automação e aplicações Web.
+
+Experiência com desenvolvimento de aplicações utilizando JavaScript e Python, além de automação de processos e manipulação de dados.
+
+## Tecnologias
+
+- JavaScript
+- React
+- Next.js
+- Node.js
+- Python
+- Linux
+- SQL
+- Web Scraping
+- Automação
+
+## Projetos em Destaque
+
+### NRE Data Automation
+Automação para coleta e processamento de dados publicados pelo Núcleo Regional de Educação.
+
+Tecnologias:
+Python • Web Scraping • Automação
 
 ---
 
-**Formação:**
-- Técnico em Informática - IFPR
-- Licenciatura em Física - IFPR  
-- Especialização em Ciência e Tecnologia - IFPR
+### Calculadora de Energia Solar
+Ferramenta web para simular investimento e retorno financeiro em sistemas de energia solar.
 
-
-
-## 📫 Contato
-
-**LinkedIn:** [linkedin.com/in/matheusbakaus](https://linkedin.com/in/bakaus)  
-**Email:** matheus.bakaus.bruno@gmail.com  
+Tecnologias:
+HTML • CSS • JavaScript
 
 ---
 
-## 💡 Filosofia de Desenvolvimento
+### Countries API
+API REST para consulta de dados de países.
 
-"Acredito que o bom desenvolvimento vai além do código - envolve entender o problema, planejar a solução e implementar com clareza e mantenabilidade. Minha experiência como professor me ensinou que a melhor solução técnica é aquela que pode ser compreendida e mantida por outros."
+Tecnologias:
+Node.js • Express
 
 ---
 
-<div align="center">
+### Naruto Quiz
+Aplicação web desenvolvida com React e Next.js.
 
-**✨ Em busca da primeira oportunidade em desenvolvimento**  
-*Aberto para posições júnior, estágio ou projetos colaborativos*
+Tecnologias:
+React • Next.js
 
-</div>
+## GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bak4riba&show_icons=true)
 
-<!--
-**Bak4riba/Bak4riba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contato
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn  
+https://linkedin.com/in/bakaus
