@@ -48,10 +48,6 @@ Aplicação web desenvolvida com React e Next.js.
 Tecnologias:
 React • Next.js
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bak4riba&show_icons=true)
-
 ## Contato
 
 LinkedIn  
