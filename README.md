@@ -1,6 +1,6 @@
-# Matheus Bakaus Bruno
+# Matheus 
 
-Desenvolvedor com foco em Backend, Automação e aplicações Web.
+Desenvolvedor 
 
 Experiência com desenvolvimento de aplicações utilizando JavaScript e Python, além de automação de processos e manipulação de dados.
 
